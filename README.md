@@ -4,7 +4,6 @@ Oi eu sou Klayton 👋
 - 🌱 Estou abrindo meu leque de conhecimento e aprendendo C++
 - 💬 Ask me about ...
 - 📫 contate-me no email: hix_x@hotmail.com
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/arqKlay">
