@@ -14,7 +14,7 @@ Oi eu sou Klayton 👋
   <img align="center" alt="Klay-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Klay-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Klay-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Gif" height="150" style="border-radius:50px;" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs27389.pcdn.co%2Fwp-content%2Fuploads%2F2017%2F06%2FAdobeStock_135990387-1.jpeg&f=1&nofb=1">
+  <img align="right" alt="Gif" height="150" style="border-radius:50px;" src="https://freepngimg.com/thumb/technology/35586-4-robot.png">
 </div>
   
  ##
