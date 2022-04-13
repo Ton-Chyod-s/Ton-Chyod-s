@@ -2,7 +2,6 @@ Oi eu sou Klayton 👋
 
 - 🔭 Hoje trabalho com a linguagem Python
 - 🌱 Estou abrindo meu leque de conhecimento e aprendendo C++
-- 💬 Ask me about ...
 
 <div align="center">
   <a href="https://github.com/Ton-Chyod-s">
