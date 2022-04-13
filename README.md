@@ -1,10 +1,5 @@
 Oi eu sou Klayton 👋
 
-- 🔭 Hoje trabalho com a linguagem Python
-- 🌱 Estou abrindo meu leque de conhecimento e aprendendo C++
-
-
-  
   <div style="display: inline_block"><br>
   <img align="center" alt="Klay-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Klay-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
