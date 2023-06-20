@@ -7,7 +7,6 @@
 
 ![Ton-Chyod-s GitHub stats](https://github-readme-stats.vercel.app/api?username=Ton-Chyod-s&show_icons=true&theme=dracula)
 
-
 ### Linguagens - 
 
 <div style="display: inline_block"><br>
@@ -15,3 +14,5 @@
   <img align="center" alt="Klay-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Gif" height="150" style="border-radius:50px;" src="https://freepngimg.com/thumb/technology/35586-4-robot.png">
 </div>
+
+
