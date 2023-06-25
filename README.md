@@ -15,5 +15,3 @@
   <img align="right" alt="Gif" height="150" style="border-radius:50px;" src="https://freepngimg.com/thumb/technology/35586-4-robot.png">
 </div>
 
-
-https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png
