@@ -6,9 +6,7 @@
   ### Rede sociais!!
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/ton-chyod-s/)
-  
   [![Facebook](https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=facebook)](https://www.facebook.com/ArqKdias/)
-
   [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/ton_chyod_s/)
 
 </div>
