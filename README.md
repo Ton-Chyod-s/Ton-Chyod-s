@@ -16,6 +16,7 @@
 
 ![Ton-Chyod-s GitHub stats](https://github-readme-stats.vercel.app/api?username=Ton-Chyod-s&show_icons=true&theme=dracula)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ton-Chyod-s&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
 ### Hailidades!!
 
@@ -27,3 +28,4 @@
 <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="right" alt="Gif" height="150" style="border-radius:50px;" src="https://freepngimg.com/thumb/technology/35586-4-robot.png">
 </div>
+
