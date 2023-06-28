@@ -13,11 +13,12 @@
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/ton_chyod_s/) </a>
 
 ### Cards!
-<div style="display: inline_block">
+<div>
 
 <a> ![Ton-Chyod-s GitHub stats](https://github-readme-stats.vercel.app/api?username=Ton-Chyod-s&show_icons=true&theme=dracula) </a>
-<a> [![GitHub Streak](https://streak-stats.demolab.com/?user=Ton-Chyod-s&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats) </a>
-</div>
+
+<a> [![GitHub Streak](https://streak-stats.demolab.com/?user=Ton-Chyod-s&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats) </a></div>
+
 <h1>  </h1>
 
 
