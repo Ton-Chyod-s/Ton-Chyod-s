@@ -18,7 +18,7 @@ Cards!!
 
 <a> [![GitHub Streak](https://streak-stats.demolab.com/?user=Ton-Chyod-s&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats) </a>
 
-<a> [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats) </a>
+<a> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ton-Chyod-s&hide_progress=true)</a>
 </div>
 
 
