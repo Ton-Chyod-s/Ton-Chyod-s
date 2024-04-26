@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=dark&logo=instagram)](https://www.instagram.com/ton_chyod_s/) 
 
 ### Tecnologias 
-<a>
+<a style="display: inline_block">
 <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="javascript" height="30"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 <img align="center" alt="nodejs" height="30"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
