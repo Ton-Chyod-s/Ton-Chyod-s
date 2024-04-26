@@ -28,8 +28,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ton-Chyod-s&theme=bear&theme=dark)](https://git.io/streak-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ton-Chyod-s)](https://github.com/anuraghazra/github-readme-stats)
-
 
 </div>
 
