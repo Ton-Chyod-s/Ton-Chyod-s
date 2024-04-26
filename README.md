@@ -25,8 +25,10 @@
 <a href="https://github.com/Ton-Chyod-s/convoychat">
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ton-Chyod-s&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
+<img align="right" alt="Gif" height="125" style="border-radius:50px;" src="https://freepngimg.com/thumb/technology/35586-4-robot.png">
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ton-Chyod-s&theme=bear&theme=dark)](https://git.io/streak-stats)
+
 
 
 </div>
