@@ -15,6 +15,7 @@
 <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="CSS" height="30"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="postgresql" height="30"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+<img align="right" alt="Gif" height="125" style="border-radius:50px;" src="https://freepngimg.com/thumb/technology/35586-4-robot.png">
 </div>
 
 ## GitHub Stats Card!! 
@@ -25,7 +26,7 @@
 <a href="https://github.com/Ton-Chyod-s/convoychat">
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ton-Chyod-s&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
-<img align="right" alt="Gif" height="125" style="border-radius:50px;" src="https://freepngimg.com/thumb/technology/35586-4-robot.png">
+
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ton-Chyod-s&theme=bear&theme=dark)](https://git.io/streak-stats)
 
