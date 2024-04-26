@@ -1,10 +1,13 @@
 ## Oi eu sou Klayton 👋
 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=dark&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/ton-chyod-s/)
 [![Facebook](https://img.shields.io/badge/Facebook-000?style=dark&logo=facebook)](https://www.facebook.com/ArqKdias/)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=dark&logo=instagram)](https://www.instagram.com/ton_chyod_s/) 
 
+
 ### Tecnologias
+
 <div style="display: inline_block">
 <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="javascript" height="30"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
@@ -16,16 +19,17 @@
 
 ## GitHub Stats Card!! 
 <div style="display: inline_block">
-
 <a href="https://github.com/Ton-Chyod-s/convoychat"> 
 <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Ton-Chyod-s&show_icons=true&theme=dark"/>
 </a>
-
 <a href="https://github.com/Ton-Chyod-s/convoychat">
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ton-Chyod-s&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
 
-<a > [![GitHub Streak](https://streak-stats.demolab.com/?user=Ton-Chyod-s&theme=bear&theme=dark)](https://git.io/streak-stats) </a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ton-Chyod-s&theme=bear&theme=dark)](https://git.io/streak-stats)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ton-Chyod-s)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </div>
 
