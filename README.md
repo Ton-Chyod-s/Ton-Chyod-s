@@ -9,30 +9,30 @@
 ### Tecnologias
 
 <div style="display: inline_block">
-<img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="javascript" height="30"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-<img align="center" alt="nodejs" height="30"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="CSS" height="30"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="postgresql" height="30"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-
-
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="javascript" height="30"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="nodejs" height="30"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="postgresql" height="30"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
 
 ## GitHub Stats Card!! 
 <div style="display: inline_block">
-<a href="https://github.com/Ton-Chyod-s/convoychat"> 
-<img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Ton-Chyod-s&show_icons=true&theme=dark"/>
-</a>
-<a href="https://github.com/Ton-Chyod-s/convoychat">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ton-Chyod-s&layout=compact&langs_count=8&card_width=320&theme=dark" />
-</a>
+  <a href="https://github.com/Ton-Chyod-s/convoychat"> 
+    <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Ton-Chyod-s&show_icons=true&theme=dark"/>
+  </a>
+</div>
 
+<br>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Ton-Chyod-s&theme=bear&theme=dark)](https://git.io/streak-stats)
-
-
-
+<div style="display: inline_block">
+  <a href="https://git.io/streak-stats"> 
+    <img height=160 align="center" src="https://streak-stats.demolab.com/?user=Ton-Chyod-s&theme=bear&theme=dark"/>
+  </a>
+  <a href="https://github.com/Ton-Chyod-s/convoychat">
+    <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ton-Chyod-s&layout=compact&langs_count=8&card_width=320&theme=dark" />
+  </a>
 </div>
 
 
