@@ -17,7 +17,7 @@
   <img align="center" alt="postgresql" height="30"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
 
-## GitHub Stats Card!! 
+## GitHub Development Journey!! 
 <div style="display: inline_block">
   <a href="https://github.com/Ton-Chyod-s/convoychat"> 
     <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Ton-Chyod-s&show_icons=true&theme=dark"/>
