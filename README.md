@@ -1,4 +1,4 @@
-## Oi eu sou Klayton 👋
+## Oi, eu sou Klayton 👋
 
 [![Email](https://img.shields.io/badge/Email-000?style=flat&logo=gmail)](mailto:hix_x@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=dark&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/ton-chyod-s/)
