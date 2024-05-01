@@ -40,9 +40,11 @@
 <!-- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ton-chyod-s)](https://github.com/anuraghazra/github-readme-stats) 
 
 <details>
-    <summary>GitHub Profile Stats</summary>
+    <summary>Outras tecnologias </summary>
     <br/>
-    lolo
+    <div style="display: inline_block">
+        <img align="center" alt="javascript" height="30"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    </div>
 </details>
 
 -->
