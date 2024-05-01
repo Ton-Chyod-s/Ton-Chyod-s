@@ -35,7 +35,10 @@
   <a href="https://github.com/Ton-Chyod-s/convoychat">
     <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ton-Chyod-s&layout=compact&langs_count=8&card_width=320&theme=dark" />
   </a>
+  
 </div>
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ton-chyod-s&label=Profile%20views&color=0e75b6&style=flat" alt="ton-chyod-s" /> </p>
 
 <!-- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ton-chyod-s)](https://github.com/anuraghazra/github-readme-stats) 
 
