@@ -16,6 +16,14 @@
   <img align="center" alt="CSS" height="30"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="postgresql" height="30"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
+<br>
+<details>
+    <summary>Outras tecnologias </summary>
+    <br/>
+    <div style="display: inline_block">
+        <img align="center" alt="linux" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+    </div>
+</details>
 
 ## GitHub Development Journey!! 
 <div style="display: inline_block">
