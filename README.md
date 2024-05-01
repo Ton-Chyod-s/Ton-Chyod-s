@@ -37,4 +37,12 @@
   </a>
 </div>
 
-<!-- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ton-chyod-s)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ton-chyod-s)](https://github.com/anuraghazra/github-readme-stats) 
+
+<details>
+    <summary>GitHub Profile Stats</summary>
+    <br/>
+    lolo
+</details>
+
+-->
