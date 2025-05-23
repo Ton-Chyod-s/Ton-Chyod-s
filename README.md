@@ -1,8 +1,8 @@
 ## Oi, eu sou Klayton 👋 - Desenvolvedor back-end
 
-[![Email](https://img.shields.io/badge/Email-000?style=flat&logo=gmail)](mailto:hix_x@hotmail.com)
+[![Email](https://img.shields.io/badge/Email-000?style=flat&logo=gmail)](mailto:klayton.dias@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=dark&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/ton-chyod-s/)
-[![Facebook](https://img.shields.io/badge/Facebook-000?style=dark&logo=facebook)](https://www.facebook.com/ArqKdias/)
+[![Facebook](https://img.shields.io/badge/Facebook-000?style=dark&logo=facebook)]([https://www.facebook.com/ArqKdias/](https://www.facebook.com/ArqKdias/))
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=dark&logo=instagram)](https://www.instagram.com/ton_chyod_s/)
 <!-- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=dark&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=SEUNUMERO) -->
 
