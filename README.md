@@ -13,7 +13,7 @@ Especialista em automação de processos e desenvolvimento de APIs escaláveis.
 
 - [**api-scraper-mailer**](https://github.com/Ton-Chyod-s/api-scraper-mailer): API Node.js para scraping de dados e envio automatizado de relatórios por e-mail.
 - [**GitHub Follower Manager**](https://github.com/Ton-Chyod-s/git-hub-follower-manager): Ferramenta de gerenciamento de seguidores usando a API do GitHub.
-- [**Análise de Dados Públicos**](https://github.com/Ton-Chyod-s/Analise-de-dados): Scripts em Python para análise e visualização de dados da ANAC.
+- [**Análise de Dados Públicos**](https://github.com/Ton-Chyod-s/Analise-de-dados): Scripts em Python para análise e visualização de dados.
 
 ---
 
