@@ -20,7 +20,6 @@ Especialista em automação de processos e desenvolvimento de APIs escaláveis.
 
 ## Sobre Mim
 
-- Desenvolvedor back-end na **Mega Júnior (UFMS)**, atuando em projetos reais com foco em APIs RESTful.
 - Pós-graduado em **Arquitetura de Software**, com conhecimento aplicado em **Clean Architecture**, **SOLID** e padrões de projeto.
 - Experiência com **Docker** para criação de ambientes isolados e deploy de aplicações.
 - Práticas de versionamento utilizando **Git e Gitflow**, garantindo organização e colaboração em equipe.
