@@ -47,25 +47,19 @@ Especialista em automação de processos e desenvolvimento de APIs escaláveis.
 
 ---
 
-## Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
-<div style="display: inline_block">
-  <a href="https://github.com/Ton-Chyod-s"> 
-    <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Ton-Chyod-s&show_icons=true&theme=dark"/>
-  </a>
+<div align="center">
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ton-Chyod-s&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"/>
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ton-Chyod-s&layout=compact&langs_count=8&theme=algolia&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9"/>
 </div>
 
-<div style="display: inline_block">
-  <a href="https://git.io/streak-stats"> 
-    <img height=160 align="center" src="https://streak-stats.demolab.com/?user=Ton-Chyod-s&theme=dark"/>
-  </a>
-  <a href="https://github.com/Ton-Chyod-s">
-    <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ton-Chyod-s&layout=compact&langs_count=8&card_width=320&theme=dark" />
-  </a>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ton-Chyod-s&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=false&border_color=30363d"/>
 </div>
 
 ---
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=ton-chyod-s&label=Profile%20views&color=0e75b6&style=flat" alt="ton-chyod-s" height="20" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ton-chyod-s&label=Visualizações&color=58a6ff&style=flat"/>
 </p>
