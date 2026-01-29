@@ -5,6 +5,8 @@ Especialista em automação de processos e desenvolvimento de APIs escaláveis.
 [![Email](https://img.shields.io/badge/Gmail-1a1a1a?style=flat&logo=gmail&logoColor=EA4335)](mailto:klayton.dias@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=flat&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/ton-chyod-s/)
 [![GitLab](https://img.shields.io/badge/GitLab-1a1a1a?style=flat&logo=gitlab&logoColor=FC6D26)](https://gitlab.com/Ton-Chyod-s)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a1a1a?style=flat&logo=google-chrome&logoColor=4285F4)](https://ton-chyod-s.github.io/portfolio-tech/#/)
+
 
 ---
 
