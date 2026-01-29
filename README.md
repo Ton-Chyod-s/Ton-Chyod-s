@@ -2,10 +2,9 @@
 
 Especialista em automação de processos e desenvolvimento de APIs escaláveis.
 
-[![Email](https://img.shields.io/badge/Email-000?style=flat&logo=gmail)](mailto:klayton.dias@hotmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=dark&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/ton-chyod-s/)
-[![Facebook](https://img.shields.io/badge/Facebook-000?style=dark&logo=facebook)](https://www.facebook.com/ArqKdias/)
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=dark&logo=instagram)](https://www.instagram.com/ton_chyod_s/)
+[![Email](https://img.shields.io/badge/Gmail-1a1a1a?style=flat&logo=gmail&logoColor=EA4335)](mailto:klayton.dias@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=flat&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/ton-chyod-s/)
+[![GitLab](https://img.shields.io/badge/GitLab-1a1a1a?style=flat&logo=gitlab&logoColor=FC6D26)](https://gitlab.com/Ton-Chyod-s)
 
 ---
 
