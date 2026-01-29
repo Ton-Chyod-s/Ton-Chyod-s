@@ -60,6 +60,12 @@ Especialista em automação de processos e desenvolvimento de APIs escaláveis.
 
 ---
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=ton-chyod-s&label=Visualizações&color=58a6ff&style=flat"/>
+</p>
+
+<p align="right">
+  <i>"Talk is cheap. Show me the code."</i>
+  <br>
+  <sub>— Linus Torvalds</sub>
 </p>
