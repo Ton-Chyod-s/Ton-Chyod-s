@@ -7,10 +7,6 @@ Especialista em automação de processos e desenvolvimento de APIs escaláveis.
 [![GitLab](https://img.shields.io/badge/GitLab-1a1a1a?style=flat&logo=gitlab&logoColor=FC6D26)](https://gitlab.com/Ton-Chyod-s)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1a1a1a?style=flat&logo=google-chrome&logoColor=4285F4)](https://ton-chyod-s.github.io/portfolio-tech/#/)
 
-<style>
-  a { text-decoration: none !important; }
-</style>
-
 ---
 
 ## Projetos em Destaque
@@ -51,7 +47,7 @@ Especialista em automação de processos e desenvolvimento de APIs escaláveis.
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <div align="center">
   <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ton-Chyod-s&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"/>
