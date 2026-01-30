@@ -61,7 +61,7 @@ Especialista em automação de processos e desenvolvimento de APIs escaláveis.
 ---
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ton-chyod-s&label=Visualizações&color=58a6ff&style=flat"/>
+  <img src="https://hits.sh/github.com/Ton-Chyod-s.svg?label=Visualiza%C3%A7%C3%B5es&color=58a6ff&labelColor=0d1117" alt="Visualizações"/>
 </p>
 
 <p align="right">
