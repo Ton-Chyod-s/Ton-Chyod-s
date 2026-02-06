@@ -1,4 +1,4 @@
-## 👋 Olá! Eu sou Klayton Dias — Desenvolvedor Back-End.
+## 👋 Olá! Eu sou Klayton Dias - Desenvolvedor Back-End.
 
 Especialista em automação de processos e desenvolvimento de APIs escaláveis.
 
