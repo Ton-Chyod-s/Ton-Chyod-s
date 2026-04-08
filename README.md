@@ -31,6 +31,7 @@ Pós-graduado em **Arquitetura de Software**, com experiência prática em auten
 - CI/CD com **GitHub Actions** e **Azure DevOps Pipelines**.
 - Qualidade de código com **ESLint**, **Prettier** e testes com **Jest**.
 - Experiência em back-end com **Node.js/TypeScript**, **C#/.NET** e automações com **Python**.
+- Atualmente estudando **Rust**, aplicando os conceitos em projetos práticos.
 
 ---
 
