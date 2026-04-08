@@ -1,6 +1,8 @@
-## 👋 Olá! Eu sou Klayton Dias - Desenvolvedor Back-End.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2a4a,100:58a6ff&height=100&section=header&text=Klayton%20Dias&fontSize=28&fontColor=c9d1d9&fontAlignY=50&desc=Desenvolvedor%20Back-End%20%C2%B7%20Node.js%20%C2%B7%20TypeScript%20%C2%B7%20C%23&descSize=14&descAlignY=72&descAlign=50"/>
 
-Especialista em automação de processos e desenvolvimento de APIs escaláveis com foco em Clean Architecture e segurança.
+Construo APIs seguras, automatizo processos e estruturo sistemas usando **Clean Architecture** — do zero ao deploy em produção.
+
+Pós-graduado em **Arquitetura de Software**, com experiência prática em autenticação, containerização e CI/CD.
 
 [![Email](https://img.shields.io/badge/Gmail-1a1a1a?style=flat&logo=gmail&logoColor=EA4335)](mailto:klayton.dias@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=flat&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/ton-chyod-s/)
@@ -11,24 +13,24 @@ Especialista em automação de processos e desenvolvimento de APIs escaláveis c
 
 ## Projetos em Destaque
 
-- [**nexo-task-api**](https://github.com/Ton-Chyod-s/nexo-task-api): Sistema completo de gerenciamento de tarefas com API em Node.js/TypeScript + frontend React, autenticação JWT, Docker e GitHub Actions.
-- [**api-scraper-mailer**](https://github.com/Ton-Chyod-s/api-scraper-mailer): API Node.js/TypeScript com Clean Architecture para scraping de dados e envio automatizado de relatórios por e-mail, com segurança robusta (CSRF, rate limiting, Helmet).
-- [**node-api-starter-typescript**](https://github.com/Ton-Chyod-s/node-api-starter-typescript): Boilerplate profissional para APIs Node.js com TypeScript, Clean Architecture, autenticação dual (Web + Mobile), documentação OpenAPI e Docker.
-- [**public-records-api**](https://github.com/Ton-Chyod-s/public-records-api): API RESTful em .NET 9 / C# com Entity Framework Core para gerenciamento de registros públicos e diários oficiais, com autenticação JWT.
-- [**GitHub Follower Manager**](https://github.com/Ton-Chyod-s/git-hub-follower-manager): Ferramenta TypeScript para análise e gerenciamento de seguidores via API do GitHub, com endpoints REST e Clean Architecture.
-- [**Análise de Dados Públicos**](https://github.com/Ton-Chyod-s/Analise-de-dados): Scripts Python para transformação de dados brutos em planilhas prontas para dashboards de BI (Power BI).
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [**nexo-task-api**](https://github.com/Ton-Chyod-s/nexo-task-api) | Sistema completo de gerenciamento de tarefas — API + frontend, autenticação JWT, e-mail e deploy via Docker | Node.js · TypeScript · React · PostgreSQL · Prisma · Docker |
+| [**api-scraper-mailer**](https://github.com/Ton-Chyod-s/api-scraper-mailer) | API de automação para scraping e envio de relatórios por e-mail, com CSRF, rate limiting e documentação OpenAPI | Node.js · TypeScript · Express · Prisma · Jest |
+| [**node-api-starter-typescript**](https://github.com/Ton-Chyod-s/node-api-starter-typescript) | Boilerplate de API com autenticação dual (Web + Mobile), Clean Architecture, segurança e CI/CD pré-configurados | Node.js · TypeScript · Docker · ESLint · Prettier |
+
+> Ver todos os projetos → [github.com/Ton-Chyod-s?tab=repositories](https://github.com/Ton-Chyod-s?tab=repositories)
 
 ---
 
 ## Sobre Mim
 
-- Pós-graduado em **Arquitetura de Software**, com aplicação prática de **Clean Architecture**, **SOLID** e padrões de projeto.
-- Experiência em APIs seguras com autenticação **JWT**, **CORS**, **rate limiting**, **CSRF** e **Helmet**.
-- Proficiente em **Docker e Docker Compose** para criação de ambientes e deploy de aplicações.
-- Práticas de versionamento com **Git e Gitflow**; integração com **CI/CD via GitHub Actions e Azure DevOps Pipelines**.
-- Familiaridade com **testes unitários** usando **Jest** e qualidade de código com **ESLint** e **Prettier**.
-- Foco em projetos desafiadores com lógica de negócio complexa, organização de sistemas e automação de processos.
-- Sempre buscando aplicar tecnologia de forma simples, eficiente e com propósito.
+- Pós-graduado em **Arquitetura de Software** — aplico **Clean Architecture**, **SOLID** e padrões de projeto no dia a dia.
+- Construo APIs com autenticação segura: **JWT**, CORS, rate limiting, CSRF e Helmet.
+- Proficiente em **Docker & Docker Compose** para ambientes isolados e deploy de aplicações.
+- CI/CD com **GitHub Actions** e **Azure DevOps Pipelines**.
+- Qualidade de código com **ESLint**, **Prettier** e testes com **Jest**.
+- Experiência em back-end com **Node.js/TypeScript**, **C#/.NET** e automações com **Python**.
 
 ---
 
@@ -75,3 +77,4 @@ Especialista em automação de processos e desenvolvimento de APIs escaláveis c
   <br>
   <sub>— Kent Beck</sub>
 </p>
+
