@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2a4a,100:58a6ff&height=100&section=header&text=Klayton%20Dias&fontSize=28&fontColor=c9d1d9&fontAlignY=50&desc=Desenvolvedor%20Back-End%20%C2%B7%20Node.js%20%C2%B7%20TypeScript%20%C2%B7%20C%23&descSize=14&descAlignY=72&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2a4a,100:58a6ff&height=100&section=header&text=Klayton%20Dias&fontSize=28&fontColor=c9d1d9&fontAlignY=50&desc=Desenvolvedor%20Back-End%20%C2%B7%20Python%20%C2%B7%20Node.js%20%C2%B7%20TypeScript%20%C2%B7%20C%23&descSize=14&descAlignY=72&descAlign=50"/>
 
 Construo APIs seguras, automatizo processos e estruturo sistemas usando **Clean Architecture** — do zero ao deploy em produção.
 
