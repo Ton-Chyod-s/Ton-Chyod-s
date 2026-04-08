@@ -76,6 +76,6 @@ Pós-graduado em **Arquitetura de Software**, com experiência prática em auten
 <p align="right">
   <i>"Make it work. Make it right. Make it fast."</i>
   <br>
-  <sub>— Kent Beck</sub>
+  <sub>- Kent Beck</sub>
 </p>
 
