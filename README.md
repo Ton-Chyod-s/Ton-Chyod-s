@@ -65,7 +65,7 @@ Especialista em automação de processos e desenvolvimento de APIs escaláveis.
 </p>
 
 <p align="right">
-  <i>"Talk is cheap. Show me the code."</i>
+  <i>"Make it work. Make it right. Make it fast."</i>
   <br>
-  <sub>— Linus Torvalds</sub>
+  <sub>— Kent Beck</sub>
 </p>
