@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2a4a,100:58a6ff&height=100&section=header&text=Klayton%20Dias&fontSize=28&fontColor=c9d1d9&fontAlignY=50&desc=Desenvolvedor%20Back-End%20%C2%B7%20Python%20%C2%B7%20Node.js%20%C2%B7%20TypeScript%20%C2%B7%20C%23&descSize=14&descAlignY=72&descAlign=50"/>
 
-Construo APIs seguras, automatizo processos e estruturo sistemas usando **Clean Architecture** — do zero ao deploy em produção.
+Construo APIs seguras, automatizo processos e estruturo sistemas usando **Clean Architecture** - do zero ao deploy em produção.
 
 Pós-graduado em **Arquitetura de Software**, com experiência prática em autenticação, containerização e CI/CD.
 
@@ -15,7 +15,7 @@ Pós-graduado em **Arquitetura de Software**, com experiência prática em auten
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [**nexo-task-api**](https://github.com/Ton-Chyod-s/nexo-task-api) | Sistema completo de gerenciamento de tarefas — API + frontend, autenticação JWT, e-mail e deploy via Docker | Node.js · TypeScript · React · PostgreSQL · Prisma · Docker |
+| [**nexo-task-api**](https://github.com/Ton-Chyod-s/nexo-task-api) | Sistema completo de gerenciamento de tarefas - API + frontend, autenticação JWT, e-mail e deploy via Docker | Node.js · TypeScript · React · PostgreSQL · Prisma · Docker |
 | [**api-scraper-mailer**](https://github.com/Ton-Chyod-s/api-scraper-mailer) | API de automação para scraping e envio de relatórios por e-mail, com CSRF, rate limiting e documentação OpenAPI | Node.js · TypeScript · Express · Prisma · Jest |
 | [**node-api-starter-typescript**](https://github.com/Ton-Chyod-s/node-api-starter-typescript) | Boilerplate de API com autenticação dual (Web + Mobile), Clean Architecture, segurança e CI/CD pré-configurados | Node.js · TypeScript · Docker · ESLint · Prettier |
 
@@ -25,7 +25,7 @@ Pós-graduado em **Arquitetura de Software**, com experiência prática em auten
 
 ## Sobre Mim
 
-- Pós-graduado em **Arquitetura de Software** — aplico **Clean Architecture**, **SOLID** e padrões de projeto no dia a dia.
+- Pós-graduado em **Arquitetura de Software** - aplico **Clean Architecture**, **SOLID** e padrões de projeto no dia a dia.
 - Construo APIs com autenticação segura: **JWT**, CORS, rate limiting, CSRF e Helmet.
 - Proficiente em **Docker & Docker Compose** para ambientes isolados e deploy de aplicações.
 - CI/CD com **GitHub Actions** e **Azure DevOps Pipelines**.
