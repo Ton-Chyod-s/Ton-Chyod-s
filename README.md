@@ -15,6 +15,7 @@ Pós-graduado em **Arquitetura de Software**, com experiência prática em auten
 
 | Projeto | Descrição | Stack |
 |---|---|---|
+| [**syt-playlist-downloader**](https://github.com/Ton-Chyod-s/syt-playlist-downloader) | App desktop para baixar playlists do YouTube e músicas do Spotify — GUI nativa, auto-update e build automatizado via GitHub Actions | Tauri · Rust · TypeScript · React |
 | [**nexo-task-api**](https://github.com/Ton-Chyod-s/nexo-task-api) | Sistema completo de gerenciamento de tarefas - API + frontend, autenticação JWT, e-mail e deploy via Docker | Node.js · TypeScript · React · PostgreSQL · Prisma · Docker |
 | [**api-scraper-mailer**](https://github.com/Ton-Chyod-s/api-scraper-mailer) | API de automação para scraping e envio de relatórios por e-mail, com CSRF, rate limiting e documentação OpenAPI | Node.js · TypeScript · Express · Prisma · Jest |
 | [**node-api-starter-typescript**](https://github.com/Ton-Chyod-s/node-api-starter-typescript) | Boilerplate de API com autenticação dual (Web + Mobile), Clean Architecture, segurança e CI/CD pré-configurados | Node.js · TypeScript · Docker · ESLint · Prettier |
@@ -31,7 +32,7 @@ Pós-graduado em **Arquitetura de Software**, com experiência prática em auten
 - CI/CD com **GitHub Actions** e **Azure DevOps Pipelines**.
 - Qualidade de código com **ESLint**, **Prettier** e testes com **Jest**.
 - Experiência em back-end com **Node.js/TypeScript**, **C#/.NET** e automações com **Python**.
-- Atualmente estudando **Rust**, aplicando os conceitos em projetos práticos.
+- Estudando **Rust** e aplicando na prática — atualmente no [syt-playlist-downloader](https://github.com/Ton-Chyod-s/syt-playlist-downloader) com **Tauri** para apps desktop.
 
 ---
 
@@ -52,6 +53,7 @@ Pós-graduado em **Arquitetura de Software**, com experiência prática em auten
   <img align="center" alt="Azure DevOps" height="30" width="40" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_azurepipelines.svg">
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rust" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg">
 </div>
 
 ---
