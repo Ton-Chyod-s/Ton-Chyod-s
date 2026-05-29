@@ -16,7 +16,7 @@ Pós-graduado em **Arquitetura de Software**, com experiência prática em auten
 | Projeto | Descrição | Stack |
 |---|---|---|
 | [**syt-playlist-downloader**](https://github.com/Ton-Chyod-s/syt-playlist-downloader) | App desktop para baixar playlists do YouTube e músicas do Spotify — GUI nativa, auto-update e build automatizado via GitHub Actions | Tauri · Rust · TypeScript · React |
-| [**nexo-task-api**](https://github.com/Ton-Chyod-s/nexo-task-api) | Sistema completo de gerenciamento de tarefas - API + frontend, autenticação JWT, e-mail e deploy via Docker | Node.js · TypeScript · React · PostgreSQL · Prisma · Docker |
+| [**nexo-task-api**](https://github.com/Chyod-s/nexo-task-api) | Sistema completo de gerenciamento de tarefas - API + frontend, autenticação JWT, e-mail e deploy via Docker | Node.js · TypeScript · React · PostgreSQL · Prisma · Docker |
 | [**api-scraper-mailer**](https://github.com/Ton-Chyod-s/api-scraper-mailer) | API de automação para scraping e envio de relatórios por e-mail, com CSRF, rate limiting e documentação OpenAPI | Node.js · TypeScript · Express · Prisma · Jest |
 | [**node-api-starter-typescript**](https://github.com/Ton-Chyod-s/node-api-starter-typescript) | Boilerplate de API com autenticação dual (Web + Mobile), Clean Architecture, segurança e CI/CD pré-configurados | Node.js · TypeScript · Docker · ESLint · Prettier |
 
