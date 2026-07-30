@@ -7,7 +7,7 @@ Pós-graduado em **Arquitetura de Software**, com experiência prática em auten
 [![Email](https://img.shields.io/badge/Gmail-1a1a1a?style=flat&logo=gmail&logoColor=EA4335)](mailto:klayton.dias@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=flat&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/ton-chyod-s/)
 [![GitLab](https://img.shields.io/badge/GitLab-1a1a1a?style=flat&logo=gitlab&logoColor=FC6D26)](https://gitlab.com/Ton-Chyod-s)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1a1a1a?style=flat&logo=google-chrome&logoColor=4285F4)](https://ton-chyod-s.github.io/portfolio-tech/#/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a1a1a?style=flat&logo=google-chrome&logoColor=4285F4)](https://ton-chyod-s.me/)
 
 ---
 
@@ -16,7 +16,7 @@ Pós-graduado em **Arquitetura de Software**, com experiência prática em auten
 | Projeto | Descrição | Stack |
 |---|---|---|
 | [**syt-playlist-downloader**](https://github.com/Ton-Chyod-s/syt-playlist-downloader) | App desktop para baixar playlists do YouTube e músicas do Spotify — GUI nativa, auto-update e build automatizado via GitHub Actions | Tauri · Rust · TypeScript · React |
-| [**nexo-task-api**](https://github.com/Ton-Chyod-s/nexo-task-api) | Sistema completo de gerenciamento de tarefas - API + frontend, autenticação JWT, e-mail e deploy via Docker | Node.js · TypeScript · React · PostgreSQL · Prisma · Docker |
+| [**nexo-task-api**](https://github.com/Chyod-s/nexo-task-api) | Sistema completo de gerenciamento de tarefas - API + frontend, autenticação JWT, e-mail e deploy via Docker | Node.js · TypeScript · React · PostgreSQL · Prisma · Docker |
 | [**api-scraper-mailer**](https://github.com/Ton-Chyod-s/api-scraper-mailer) | API de automação para scraping e envio de relatórios por e-mail, com CSRF, rate limiting e documentação OpenAPI | Node.js · TypeScript · Express · Prisma · Jest |
 | [**node-api-starter-typescript**](https://github.com/Ton-Chyod-s/node-api-starter-typescript) | Boilerplate de API com autenticação dual (Web + Mobile), Clean Architecture, segurança e CI/CD pré-configurados | Node.js · TypeScript · Docker · ESLint · Prettier |
 
@@ -38,23 +38,7 @@ Pós-graduado em **Arquitetura de Software**, com experiência prática em auten
 
 ## Tecnologias
 
-<div style="display: inline_block">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt=".NET" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Prisma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg">
-  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Azure DevOps" height="30" width="40" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_azurepipelines.svg">
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rust" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg">
-</div>
+<img src="https://skillicons.dev/icons?i=ts,nodejs,python,cs,dotnet,js,react,postgres,prisma,docker,git,azure,html,css,rust" height="40" />
 
 ---
 
